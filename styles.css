@@ -1,3 +1,14 @@
+html {
+    background-color: #0D0D0D;
+}
+
 .heading {
     font-family: "Copperplate", sans-serif;
+    font-size: 48px;
+    color: #FFFAF0;
+    text-align: center;
+}
+
+p, h2, h3, li {
+    color: #FFFAF0;
 }
