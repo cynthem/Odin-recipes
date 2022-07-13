@@ -34,6 +34,7 @@ li {
 
 p {
     line-height: 1.5em;
+    text-align: center;
 }
 
 .recipe-image {
@@ -47,3 +48,19 @@ p {
     text-align: center;
 }
 
+.links {
+    display: flex;
+    justify-content: space-evenly;
+    height: 80vh;
+    align-items: center;
+}
+
+img {
+    border-radius: 20%;
+}
+
+.links img:hover{
+    transform: scale(1.05);
+    transition: all ease;
+    box-shadow: 0 0 5px aquamarine;
+}
