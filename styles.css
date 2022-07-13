@@ -20,12 +20,30 @@ html {
 
 p, h2, h3, li {
     color: #FFFAF0;
+    letter-spacing: 0.25px;
+}
+
+h3 {
+    color: mediumaquamarine;
+}
+
+li {
+    line-height: 1.5em;
+    height: auto;
+}
+
+p {
+    line-height: 1.5em;
 }
 
 .recipe-image {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 25%;
+    width: 35%;
+}
+
+.description p, h2 {
+    text-align: center;
 }
 
