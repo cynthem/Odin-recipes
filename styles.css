@@ -70,3 +70,8 @@ img {
     transition: all ease;
     box-shadow: 0 0 5px aquamarine;
 }
+
+.ingredients, .instructions, .description {
+    margin-left: 100px;
+    margin-right: 100px;
+}
