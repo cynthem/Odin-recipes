@@ -1,6 +1,6 @@
 # Odin Recipes
 > A simple website for displaying three recipes on three pages from a home page as part of The Odin Project's Foundations curriculum.
-> Live demo [_here_](https://doozles411.github.io/Odin-recipes/).
+> Live demo [_here_](https://cynthem.github.io/Odin-recipes/).
 
 ## Room for Improvement
 To do:
